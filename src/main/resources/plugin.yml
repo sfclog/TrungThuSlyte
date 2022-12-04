@@ -1,0 +1,5 @@
+name: TrungThuSlyte
+version: '${project.version}'
+main: trungthuslyte.trungthuslyte.TrungThuSlyte
+api-version: 1.18
+authors: [ SFC_Log ]
