@@ -28,10 +28,10 @@ public class Reward {
         meta.setDisplayName(Color.tran("&e&lLồng Đèn Trung Thu"));
         List<String> lore = new ArrayList();
         lore.add(" ");
-        lore.add(Color.tran("&7&oLồng đèn trung thu được trao cho"));
-        lore.add(Color.tran("&7&onhững người đã giành chiến thắng"));
-        lore.add(Color.tran("&7&otrong cuộc thi &eTìm Kiếm Lồng Đèn"));
-        lore.add(Color.tran("&7&ođược tổ chức vào &dTrung Thu 2022"));
+        lore.add(Color.tran("&7Lồng đèn trung thu được trao cho"));
+        lore.add(Color.tran("&7những người đã giành chiến thắng"));
+        lore.add(Color.tran("&7trong cuộc thi &eTìm Kiếm Lồng Đèn"));
+        lore.add(Color.tran("&7được tổ chức vào &dTrung Thu 2023"));
         lore.add(" ");
         lore.add(Color.tran("&6Dùng để trao đổi hoặc mua bán"));
         lore.add(" ");
